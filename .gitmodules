@@ -1,0 +1,9 @@
+[submodule "lib/yhlog"]
+	path = lib/yhlog
+	url = git://github.com/yuanhack/yhlog.git
+[submodule "lib/yhsocket"]
+	path = lib/yhsocket
+	url = git://github.com/yuanhack/yhsocket.git
+[submodule "lib/yhepoll"]
+	path = lib/yhepoll
+	url = git://github.com/yuanhack/yhepoll.git
